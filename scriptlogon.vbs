@@ -1,0 +1,1 @@
+msgbox"Your computer has been destroyed by the Kascertor!",16,"Kascertor"
